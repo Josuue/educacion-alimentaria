@@ -6,7 +6,7 @@
 
         {{-- Logo a la izquierda --}}
         <div>
-            <h1 class="text-2xl font-bold">NutriHealth</h1>
+            <h1 class="text-2xl font-bold">Educación alimentaria</h1>
         </div>
 
                 {{-- Carrito a la derecha --}}

@@ -4,7 +4,7 @@
 
 <header class="bg-green-600 text-black p-6 shadow-md">
     <div class="max-w-7xl mx-auto flex justify-between items-center">
-        <div><h1 class="text-2xl font-bold">NutriHealth</h1></div>
+        <div><h1 class="text-2xl font-bold">Educación Alimentaria</h1></div>
         <div class="flex items-center space-x-4">
             <a href="/comprar" title="Carrito de compra">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
